@@ -2,10 +2,6 @@
 ---
 Store: Consumer-Entrepreneur Connection System
 
-개발자
----
-박태성, 오성수
-
 Develop Spec
 ---
 Android Studio, Google Firebase
